@@ -32,10 +32,10 @@ sub[11].end += {'seconds': -1}
 for i in range(14, n_subs, 1):
     sub[i].shift(seconds=-0.5)
 
-for i in range(22, n_subs, 1):
+for i in range(23, n_subs, 1):
     sub[i].shift(seconds=-14.5)
 
-for i in range(23, n_subs, 1):
+for i in range(24, n_subs, 1):
     sub[i].shift(seconds=-1.1)
 
 sub.save('new_' + in_file)
