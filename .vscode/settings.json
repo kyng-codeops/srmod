@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/kng/.pyenv/versions/vedit/bin/python",
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
